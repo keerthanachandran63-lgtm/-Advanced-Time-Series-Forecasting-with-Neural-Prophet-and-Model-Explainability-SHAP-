@@ -1,8 +1,7 @@
-# Advanced Time Series Forecasting with Neural Prophet & SHAP
-This project includes:
-- Synthetic dataset generation
-- NeuralProphet model
-- ARIMA baseline
+# Complete Advanced Time Series Forecasting Project
+Includes:
+- Full multi-variable dataset generation
+- NeuralProphet model + tuning
+- Baseline ARIMA with proper evaluation
 - SHAP explainability
-
-Run `main.ipynb` for full workflow.
+- Detailed report
